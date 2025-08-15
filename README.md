@@ -69,6 +69,15 @@ amazon_analysis/
 └── README.md
 ```
 
+### Data Cleaning and Analysis
+1. Data loading and inspection
+2. Data cleaning and formatting
+3. Calculated colums added for:
+ *Average discount percentage
+ *Total potential revenue
+ *Products with 50%+ discount
+ *Price bucket Categorization
+ *Top products by rating and reveiw count
 ### Getting Started
 ![IMG-20250815-WA0111](https://github.com/user-attachments/assets/ebfe635b-cb3f-4bba-a77e-d1598181cd63)
 ![IMG-20250815-WA0110](https://github.com/user-attachments/assets/09474379-0ff0-4907-a145-4f2d0b910084)

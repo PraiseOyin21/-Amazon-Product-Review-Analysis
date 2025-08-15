@@ -81,6 +81,9 @@ amazon_analysis/
 ![IMG-20250815-WA0102](https://github.com/user-attachments/assets/fc73b7a6-1a2b-4523-b75a-2cf7f5e0c810)
 ![IMG-20250815-WA0099](https://github.com/user-attachments/assets/f1115d65-65fe-4659-8397-db4340252da0)
 
+### Conclusion
+ The analysis is complete, and the charts provide valuable insights that answer key questions. These findings will inform decision-making, drive company improvement, and guide product development, marketing strategies, and customer engagement initiatives.
+
 ### Author
 DSA Data Analysis Capstone Project  
 OLANIRAN PRAISE OLADOYIN 
